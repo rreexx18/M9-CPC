@@ -347,7 +347,10 @@ video {
 
 form {
     width: 85%;
-    
+}
+
+label {
+    display: none;
 }
 
 .form-left {
