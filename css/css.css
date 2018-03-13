@@ -349,7 +349,7 @@ form {
     width: 85%;
 }
 
-label {
+.label {
     display: none;
 }
 
